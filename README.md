@@ -2,11 +2,11 @@
 
 Final-year Computer Science student at PJAIT in Warsaw, specializing in databases. I enjoy working out how a system should fit together and then building it — mostly on the backend, with an eye on architecture and solution design.
 
-**Studying:** Computer Science (Engineer's degree), databases specialization
-**Building:** [EuroVoteVision](https://github.com/awysz/eurovotevision) — a REST API for a Eurovision voting game with friends, comparing the group's ranking with the official results
-**Thesis:** bandmates — a platform that helps musicians find people to play with (backend, private repository)
-**Learning:** Java
-**Looking for:** a backend internship
+- **Studying:** Computer Science (Engineer's degree), databases specialization
+- **Building:** [EuroVoteVision](https://github.com/awysz/eurovotevision) — a REST API for a Eurovision voting game with friends, comparing the group's ranking with the official results
+- **Thesis:** bandmates — a platform that helps musicians find people to play with (backend, private repository)
+- **Learning:** Java
+- **Looking for:** a backend internship
 
 ## Tech stack
 
